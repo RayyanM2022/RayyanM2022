@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rayyan Mahmood!</h1>
-<h3 align="center">I'm an Electrical Engineering student @ the University of Waterlooty of Waterloo!</h3>
+<h4>I'm an Electrical Engineering student @ the University of Waterlooty of Waterloo!<br>I'm passionate about PCB design and learning more about various different circuits using a plehtora of different EE physics concepts and tools to further investigate the world of electronics!  </h4>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayyanm2022" alt="rayyanm2022" /></a> </p>
 
